@@ -1,4 +1,4 @@
-# [LIVE VERSION](https://dreamy-franklin-83098c.netlify.app/)
+Tensies game created while learning React. [LIVE VERSION](https://dreamy-franklin-83098c.netlify.app/)
 
 # Getting Started with Create React App
 
